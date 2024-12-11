@@ -1,0 +1,19 @@
+.timer-controls {
+  display: flex;
+  justify-content: center;
+}
+
+.timer-controls button {
+  background-color: #4f33ec;
+  border: none;
+  color: #fff;
+  padding: 15px 32px;
+  margin: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.timer-controls button:hover {
+  background-color: #4b9ff9;
+}

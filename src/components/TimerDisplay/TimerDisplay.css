@@ -1,0 +1,8 @@
+.timer-display {
+  border: 1px solid #acdbff;
+  padding: 20px;
+  margin: 20px;
+  font-size: 48px;
+  background-color: #c6e9ff;
+  border-radius: 50%;
+}

@@ -1,0 +1,23 @@
+.timer-laps {
+  width: 100%;
+}
+
+.timer-laps ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0;
+}
+
+.timer-laps li {
+  border-bottom: 1px solid #ddd;
+  padding: 8px 16px;
+  background-color: #d6e5ff;
+  margin: 5px;
+  border-radius: 3px;
+}
+
+.timer-laps li:nth-child(old) {
+  background-color: #ddd;
+}
